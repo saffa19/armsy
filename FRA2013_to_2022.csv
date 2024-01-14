@@ -1,0 +1,459 @@
+tidn,buyercod,sellercod,odat,odai,onum,onai,ldat,term,desig2,wcat,desc,coprod,nrdel,nrdelai,delyears,buyer,seller,status,tivunit,tivorder,tivdel
+51582,ALB,FRA,2009,,4,,2014,N/A,AS-532 Cougar/AS-332,AC,transport helicopter,L,4,,2012-2014,Albania,France,N,7.25,29,29
+59692,ALG,FRA,2012,,2,,2016,N/A,BlueMaster,GR,ASW sonar,L,2,,2016,Algeria,France,N,10,20,20
+60492,ALG,FRA,2014,X,3,X,2016,N/A,FLASH,GR,ASW sonar,L,3,,2016,Algeria,France,N,2,6,6
+62294,ALG,FRA,2018,,20,,2021,N/A,FPB-98,SH,patrol craft,L,20,X,2019-2021,Algeria,France,N,6.5,130,130
+66411,ALG,FRA,2020,X,2,X,0,VIA,ship engine,EN,ship engine,,,,,Algeria,France,N,2.5,5,0
+65178,ANG,FRA,2021,X,2,,0,N/A,CMN LCT,SH,landing ship,,,,,Angola,France,N,0,0,0
+60377,ANG,FRA,2016,,3,X,2019,N/A,HSI-32,SH,patrol craft,L,3,X,2019,Angola,France,N,5,15,15
+65972,ANG,FRA,2022,X,3,,0,N/A,Ocean Eagle-43,SH,patrol craft,L,1,,2022,Angola,France,N,11,33,11
+61761,ARG,FRA,2017,,8,,2019,N/A,Atar-8,EN,turbojet,,8,X,2019,Argentina,France,S,0.4,3.2,3.2
+60002,ARG,FRA,2018,,3,,2022,N/A,Gowind,SH,OPV,,3,,2021-2022,Argentina,France,N,20.5,61.5,61.5
+62289,ARG,FRA,2018,,1,,2019,N/A,Gowind,SH,OPV,L,1,,2019,Argentina,France,S,12,12,12
+59279,ARG,FRA,2014,X,5,X,2015,N/A,Ground Observer-80,GR,ground surv radar,,5,X,2015,Argentina,France,N,0.75,3.75,3.75
+61445,ARG,FRA,2017,,5,,2019,N/A,Super Etendard,AC,FGA aircraft,L,5,,2019,Argentina,France,S,4,20,20
+59023,ARG,FRA,2013,X,1,,2016,N/A,Vigile-200,GR,SIGINT system,,1,,2016,Argentina,France,N,7.5,7.5,7.5
+58885,AUS,FRA,2015,,2,,2019,N/A,air refuel system,OT,air refuel system,L,2,,2018-2019,Australia,France,N,10,20,20
+57112,AUS,FRA,2011,,24,,2016,N/A,FLASH,GR,ASW sonar,L,24,,2013-2016,Australia,France,N,2,48,48
+66274,AUS,FRA,2022,,12,,0,VIA,FLASH,GR,ASW sonar,L,,,,Australia,France,N,2,24,0
+35785,AUS,FRA,2003,,300,X,2017,LIC,MU90 IMPACT,MI,ASW torpedo,L,300,X,2008-2017,Australia,France,N,0.5,150,150
+34228,AUS,FRA,2006,,35,,2018,LIC,NH-90 TTH,AC,transport helicopter,L,35,X,2011-2018,Australia,France,N,7,245,245
+65763,AUS,FRA,2022,X,6,,0,N/A,ship engine,EN,ship engine,,,,,Australia,France,N,2.5,15,0
+65766,AUS,FRA,2022,X,6,,0,N/A,Unidentified sonar,GR,SONAR,L,,,,Australia,France,N,0,0,0
+36022,AUS,FRA,2005,,17,,2017,N/A,Vampyr,GR,air search system,L,17,X,2010-2017,Australia,France,N,2,34,34
+52402,AUS,FRA,2009,X,2,,2015,N/A,Vampyr,GR,air search system,L,2,,2014-2015,Australia,France,N,2,4,4
+57834,BAH,FRA,2009,X,20,X,2014,ASS,Black Scorpion,AV,APC/APV,,20,X,2011-2014,Bahrain,France,N,0.14,2.8,2.8
+53597,BAN,FRA,2011,X,4,X,2017,VIA,ship engine,EN,ship engine,,4,,2017,Bangladesh,France,N,1.5,6,6
+55353,BAN,FRA,2011,X,6,,2013,N/A,ship engine,EN,ship engine,,6,,2013,Bangladesh,France,N,1.5,9,9
+58656,BAN,FRA,2012,,4,,2015,VIA,ship engine,EN,ship engine,,4,X,2015,Bangladesh,France,N,2.5,10,10
+60460,BAN,FRA,2015,,4,,2019,VIA,ship engine,EN,ship engine,,4,,2019,Bangladesh,France,N,2.5,10,10
+64105,BEL,FRA,2001,X,8,X,2015,VIA,aircraft engine,EN,aircraft engine,L,8,X,2013-2015,Belgium,France,N,0.75,6,6
+30701,BEL,FRA,2022,,9,,0,N/A,CAESAR 155mm,AR,self-propelled gun,L,,,,Belgium,France,N,1.1,9.9,0
+55579,BEL,FRA,2001,,4,,2014,N/A,ENR,GR,MP aircraft radar,L,4,,2013-2014,Belgium,France,N,3.5,14,14
+55578,BEL,FRA,2001,X,4,,2015,N/A,FLASH,GR,ASW sonar,L,4,,2013-2015,Belgium,France,N,2,8,8
+61063,BEL,FRA,2019,,382,,0,ASS,Griffon VBMR,AV,APC,,,,,Belgium,France,N,0,0,0
+61064,BEL,FRA,2019,,60,,0,ASS,Jaguar EBRC,AV,armoured car,,,,,Belgium,France,N,0,0,0
+59063,BEL,FRA,2019,,6,,0,LIC,MCM-2720,SH,MCM ship,,,,,Belgium,France,N,0,0,0
+30707,BEL,FRA,2007,,4,,2014,N/A,NH-90 TTH,AC,transport helicopter,L,4,,2012-2014,Belgium,France,N,7,28,28
+56433,BEL,FRA,2013,,2,,2015,N/A,PRDS,SH,patrol craft,L,2,,2014-2015,Belgium,France,N,18.45,36.9,36.9
+61730,BEN,FRA,2015,X,6,X,2016,N/A,ACMAT APC,AV,APC,L,6,X,2016,Benin,France,N,0.16,0.96,0.96
+53580,BEN,FRA,2010,X,4,,2013,N/A,LH-10 Ellipse,AC,trainer aircraft,L,4,X,2011-2013,Benin,France,N,0.11,0.44,0.44
+63305,BF,FRA,2019,,6,,2020,N/A,Bastion,AV,APC/APV,L,6,X,2019-2020,Burkina Faso,France,N,0.16,0.96,0.96
+55896,BHU,FRA,2015,,2,,2016,N/A,EC130,AC,light helicopter,L,2,X,2015-2016,Bhutan,France,N,0.95,1.9,1.9
+56531,BOL,FRA,2013,,6,,2017,N/A,AS-532 Cougar/AS-332,AC,transport helicopter,L,6,,2014-2017,Bolivia,France,N,7.25,43.5,43.5
+51173,BOL,FRA,2016,,4,,2020,N/A,Ground Master-400,GR,air search radar,L,4,X,2019-2020,Bolivia,France,N,13,52,52
+61582,BOT,FRA,2016,,50,X,2020,N/A,MICA,MI,BVRAAM,L,50,X,2020,Botswana,France,N,0.4,20,20
+59172,BOT,FRA,2015,,150,X,2016,N/A,MILAN,MI,anti-tank missile,L,150,X,2016,Botswana,France,N,0.01,1.5,1.5
+59749,BOT,FRA,2016,,140,X,2020,N/A,Mistral,MI,portable SAM,L,140,X,2018-2020,Botswana,France,N,0.09,12.6,12.6
+59748,BOT,FRA,2016,,1,X,2020,N/A,VL-MICA,AD,SAM system,L,1,X,2020,Botswana,France,N,20,20,20
+53404,BRA,FRA,2011,X,16,X,0,LIC,AM-39 Exocet,MI,anti-ship missile,L,12,X,2021-2022,Brazil,France,N,0.9,14.4,10.8
+58445,BRA,FRA,2022,,27,,0,LIC,AS-350/AS-550 Fennec,AC,light helicopter,L,,,,Brazil,France,N,0.9,24.3,0
+50338,BRA,FRA,2008,,41,,0,LIC,EC725 Super Cougar,AC,transport helicopter,L,40,X,2010-2021,Brazil,France,N,7.5,307.5,300
+60357,BRA,FRA,2012,,4,,0,LIC,EC725 Super Cougar,AC,anti-ship helicopter,,3,,2021-2022,Brazil,France,N,10.5,42,31.5
+63523,BRA,FRA,2009,X,100,X,0,N/A,F21,MI,anti-ship/ASW torpedo,L,22,X,2020-2022,Brazil,France,N,1.2,120,26.4
+58642,BRA,FRA,2015,,1,,2015,N/A,Foudre,SH,AALS,L,1,,2015,Brazil,France,S,40,40,40
+50988,BRA,FRA,2009,,2,,0,LIC,P-400,SH,patrol craft,L,1,,2022,Brazil,France,N,19,38,19
+34224,BRA,FRA,2009,,4,,0,LIC,Scorpene,SH,submarine,L,1,,2022,Brazil,France,N,299.52,1198.08,299.52
+51196,BRA,FRA,2009,X,50,X,0,N/A,SM-39 Exocet,MI,anti-ship missile,L,10,X,2022,Brazil,France,N,0.9,45,9
+36301,BRA,FRA,2009,,1,,0,LIC,SNBR,SH,nuclear submarine,,,,,Brazil,France,N,0,0,0
+56874,BRU,FRA,2012,X,10,X,2014,N/A,MM-40-3 Exocet,MI,anti-ship/land-attack missile,L,10,X,2014,Brunei,France,N,1,10,10
+66102,BUL,FRA,2022,,8,,0,N/A,MICA,MI,BVRAAM,L,,,,Bulgaria,France,N,0.4,3.2,0
+66103,BUL,FRA,2022,,2,,0,N/A,VL-MICA,AD,SAM system,L,,,,Bulgaria,France,N,20,40,0
+59221,CAM,FRA,2015,,23,X,2016,N/A,Bastion,AV,APC/APV,L,23,X,2015-2016,Cameroon,France,N,0.16,3.68,3.68
+65184,CAM,FRA,2020,,33,,2022,PEAC,Bastion,AV,APC/APV,L,33,X,2021-2022,Cameroon,France,N,0.16,5.28,5.28
+56940,CAM,FRA,2012,,1,,2017,N/A,Grèbe,SH,patrol craft,,1,,2017,Cameroon,France,R,7.92,7.92,7.92
+63315,CHA,FRA,2019,,7,,2020,N/A,Bastion,AV,APC/APV,L,7,X,2019-2020,Chad,France,N,0.16,1.12,1.12
+57832,CHA,FRA,2012,X,10,X,2013,N/A,Black Scorpion,AV,APC/APV,,10,X,2013,Chad,France,N,0.14,1.4,1.4
+64293,CHA,FRA,2020,,12,X,2021,AID,ERC-90,AV,armoured car,L,12,X,2021,Chad,France,S,0.32,3.84,3.84
+64544,CHA,FRA,2020,,2,X,2021,AID,vehicle engine,EN,vehicle engine,,2,X,2021,Chad,France,S,0.004,0.008,0.008
+62753,CHE,FRA,2019,,5,,2022,N/A,AS-350/AS-550 Fennec,AC,light helicopter,L,5,X,2020-2022,Chile,France,N,0.9,4.5,4.5
+55059,CHE,FRA,2012,X,1,,2014,N/A,AS-532 Cougar/AS-332,AC,transport helicopter,L,1,,2014,Chile,France,N,7.25,7.25,7.25
+60616,CHE,FRA,2014,,1,,2016,N/A,AS-532 Cougar/AS-332,AC,transport helicopter,L,1,,2016,Chile,France,N,7.25,7.25,7.25
+56548,CHE,FRA,2010,X,2,,2015,N/A,CAPTAS-4,GR,ASW sonar,L,2,,2011-2015,Chile,France,N,11,22,22
+54537,CHE,FRA,2011,,4,X,2016,N/A,Ground Master-400,GR,air search radar,L,4,X,2013-2016,Chile,France,N,13,52,52
+34976,CHE,FRA,2012,X,10,X,2013,N/A,Mistral,MI,portable SAM,L,10,,2013,Chile,France,N,0.09,0.9,0.9
+56707,CHI,FRA,2005,X,0,,0,LIC,aircraft engine,EN,aircraft engine,,630,X,2012-2021,China,France,N,0.35,0,220.5
+21082,CHI,FRA,1988,,0,X,0,LIC,AS365/AS565 Panther,AC,helicopter,L,452,X,1992-2022,China,France,N,3.25,0,1469
+38033,CHI,FRA,1980,X,0,,0,LIC,AS565S Panther,AC,ASW helicopter,L,51,X,1989-2022,China,France,N,9.5,0,484.5
+7493,CHI,FRA,1981,X,55,X,2016,LIC,SA-321 Super Frelon,AC,transport helicopter,L,55,X,2001-2016,China,France,N,8.85,486.75,486.75
+36418,CHI,FRA,2005,X,34,X,2020,LIC,ship engine,EN,ship engine,,34,X,2007-2020,China,France,N,4,136,136
+37965,CHI,FRA,2000,X,136,X,0,LIC,ship engine,EN,ship engine,,128,X,2005-2019,China,France,N,2.5,340,320
+57824,CHI,FRA,2010,X,144,X,2021,LIC,ship engine,EN,ship engine,,144,X,2013-2021,China,France,N,2.5,360,360
+59551,COL,FRA,2015,,1,,2015,N/A,ATR-42,AC,transport aircraft,L,1,,2015,Colombia,France,S,3.8,3.8,3.8
+65962,CRO,FRA,2022,X,,,0,N/A,Mistral,MI,portable SAM,L,,,,Croatia,France,N,0.09,0,0
+63913,CRO,FRA,2021,,12,,0,N/A,Rafale,AC,FGA aircraft,L,,,,Croatia,France,S,22,264,0
+63380,CYP,FRA,2019,,,,0,N/A,Mistral,MI,portable SAM,L,,,,Cyprus,France,N,0.09,0,0
+63379,CYP,FRA,2019,,20,X,2021,N/A,MM-40-3 Exocet,MI,anti-ship/land-attack missile,L,20,X,2020-2021,Cyprus,France,N,1,20,20
+63670,CZR,FRA,2021,,52,,0,LIC,CAESAR 155mm,AR,self-propelled gun,,,,,Czechia,France,N,1.07,55.64,0
+65963,CZR,FRA,2022,X,10,,0,LIC,CAESAR 155mm,AR,self-propelled gun,L,,,,Czechia,France,N,1.1,11,0
+59075,CZR,FRA,2019,,62,,0,LIC,TITUS,AV,APC,,,,,Czechia,France,N,0,0,0
+57113,DEN,FRA,2020,,9,X,0,VIA,FLASH,GR,ASW sonar,L,,,,Denmark,France,N,2,18,0
+65771,DJI,FRA,2020,X,6,,2021,N/A,MO-120-RT 120mm,AR,mortar,L,6,,2021,Djibouti,France,N,0.1,0.6,0.6
+53782,ECU,FRA,2010,,9,,2015,N/A,AS-350/AS-550 Fennec,AC,light helicopter,L,9,X,2011-2015,Ecuador,France,N,0.9,8.1,8.1
+61483,ECU,FRA,2017,,2,,2018,N/A,AS-350/AS-550 Fennec,AC,light helicopter,L,2,,2018,Ecuador,France,N,0.9,1.8,1.8
+50125,ECU,FRA,2008,,2,,2014,N/A,S-CUBE,GR,submarine sonar,L,2,,2012-2014,Ecuador,France,N,5,10,10
+58759,EGY,FRA,2015,,500,X,2019,N/A,AASM Hammer,MI,ASM,L,500,X,2016-2019,Egypt,France,N,0.2,100,100
+66396,EGY,FRA,2022,X,,,0,N/A,Akeron-MP,MI,anti-tank missile,L,,,,Egypt,France,N,0,0,0
+58804,EGY,FRA,2015,,25,X,2015,N/A,ASTER-15 SAAM,MI,SAM,L,25,X,2015,Egypt,France,N,0.3,7.5,7.5
+64209,EGY,FRA,2020,,2,,2021,VIA,BlueMaster,GR,ASW sonar,L,2,,2020-2021,Egypt,France,N,10,20,20
+59264,EGY,FRA,2015,,2,,2016,N/A,EDAR,SH,landing craft,L,2,,2016,Egypt,France,N,10,20,20
+58086,EGY,FRA,2015,,1,,2015,N/A,FREMM,SH,frigate,L,1,,2015,Egypt,France,N,482.95,482.95,482.95
+57172,EGY,FRA,2014,,4,,0,LIC,Gowind-2500,SH,frigate,L,3,,2017-2022,Egypt,France,N,211,844,633
+57412,EGY,FRA,2015,,100,X,0,N/A,MICA,MI,BVRAAM,L,75,X,2017-2022,Egypt,France,N,0.4,40,30
+59415,EGY,FRA,2015,,150,X,2018,N/A,MICA,MI,BVRAAM,L,150,X,2015-2018,Egypt,France,N,0.4,60,60
+63911,EGY,FRA,2020,,200,X,0,N/A,MICA,MI,BVRAAM,L,50,X,2022,Egypt,France,N,0.4,80,20
+58949,EGY,FRA,2015,,2,,2016,N/A,Mistral,SH,AALS,,2,,2016,Egypt,France,N,338.5,677,677
+57411,EGY,FRA,2014,X,50,X,0,N/A,MM-40-3 Exocet,MI,anti-ship/land-attack missile,L,30,X,2017-2022,Egypt,France,N,1,50,30
+58805,EGY,FRA,2015,,15,X,2015,N/A,MM-40-3 Exocet,MI,anti-ship/land-attack missile,L,15,X,2015,Egypt,France,N,1,15,15
+65044,EGY,FRA,2019,X,60,X,0,N/A,MM-40-3 Exocet,MI,anti-ship/land-attack missile,L,15,X,2022,Egypt,France,N,1,60,15
+31374,EGY,FRA,2006,X,3,,2015,N/A,MRR-3D,GR,air search radar,L,3,,2013-2015,Egypt,France,N,10,30,30
+55961,EGY,FRA,2010,X,1,,2015,N/A,MRR-3D,GR,air search radar,L,1,,2015,Egypt,France,N,10,10,10
+58328,EGY,FRA,2015,,24,,2019,N/A,Rafale,AC,FGA aircraft,L,24,,2015-2019,Egypt,France,N,55,1320,1320
+59832,EGY,FRA,2021,,30,,0,N/A,Rafale,AC,FGA aircraft,L,,,,Egypt,France,N,55,1650,0
+55679,EGY,FRA,2012,,173,X,2014,POLI,Sherpa,AV,APC/APV,L,173,,2013-2014,Egypt,France,N,0.25,43.25,43.25
+58983,EGY,FRA,2015,X,50,X,2022,N/A,Storm Shadow/SCALP-EG,MI,ASM,L,50,X,2021-2022,Egypt,France,N,0.64,32,32
+58757,EGY,FRA,2015,,12,X,2018,N/A,TALIOS,GR,aircraft EO system,,12,X,2016-2018,Egypt,France,N,1,12,12
+65045,EGY,FRA,2021,,4,,0,N/A,VL-MICA-M,NW,naval SAM system,L,1,,2022,Egypt,France,N,5,20,5
+31554,EST,FRA,2009,,2,,2015,N/A,Ground Master-400,GR,air search radar,L,2,,2013-2015,Estonia,France,N,13,26,26
+59433,EST,FRA,2015,,100,X,2019,N/A,Mistral,MI,portable SAM,L,100,X,2015-2019,Estonia,France,N,0.09,9,9
+62006,EST,FRA,2018,,100,X,2022,N/A,Mistral,MI,portable SAM,L,100,X,2020-2022,Estonia,France,N,0.09,9,9
+59225,ETH,FRA,2015,,12,,2016,N/A,Bastion,AV,APC/APV,L,12,X,2016,Ethiopia,France,N,0.16,1.92,1.92
+51088,FIN,FRA,2009,,12,,2015,N/A,Ground Master-400,GR,air search radar,L,12,X,2013-2015,Finland,France,N,13,156,156
+27901,FIN,FRA,2001,,10,X,2013,LIC,NH-90 TTH,AC,transport helicopter,L,10,X,2008-2013,Finland,France,N,7,70,70
+64106,FRG,FRA,2020,X,62,X,0,N/A,aircraft engine,EN,aircraft engine,L,,,,Germany,France,N,0.75,46.5,0
+52867,FRG,FRA,2010,,6,,2015,LIC,Ground Master-400,GR,air search radar,L,6,X,2013-2015,Germany,France,N,13,78,78
+37701,FRG,FRA,2013,,18,X,2022,N/A,Ocean Master,GR,MP aircraft radar,L,18,X,2019-2022,Germany,France,N,2.5,45,45
+65849,GAB,FRA,2020,X,4,X,0,N/A,AML-60/90,AV,armoured car,L,,,,Gabon,France,R,0.462,1.848,0
+58268,GAB,FRA,2014,,8,,2016,N/A,Aravis,AV,IFV,,8,X,2015-2016,Gabon,France,N,0.87,6.96,6.96
+38474,GAB,FRA,2016,X,5,X,2019,PEAC,Bastion,AV,APC/APV,L,5,X,2019,Gabon,France,N,0.16,0.8,0.8
+37176,GAB,FRA,2018,X,5,,2019,AID,VAB-VTT,AV,APC,L,5,,2019,Gabon,France,S,0.12,0.6,0.6
+58726,GEO,FRA,2015,,2,,2018,N/A,Ground Master-200,GR,air search radar,L,2,,2018,Georgia,France,N,10,20,20
+51211,GEO,FRA,2015,,1,,2018,N/A,Ground Master-400,GR,air search radar,L,1,,2018,Georgia,France,N,13,13,13
+59019,GEO,FRA,2015,,20,X,2018,N/A,Mistral,MI,portable SAM,L,20,X,2018,Georgia,France,N,0.09,1.8,1.8
+59441,GHA,FRA,2014,X,2,X,2014,N/A,Sherpa,AV,APC/APV,L,2,,2014,Ghana,France,N,0.25,0.5,0.5
+65356,GRE,FRA,2022,,,,0,N/A,ASTER-30,MI,SAM,L,,,,Greece,France,N,1,0,0
+64458,GRE,FRA,2021,,4,X,0,VIA,FLASH,GR,ASW sonar,L,,,,Greece,France,N,2,8,0
+63992,GRE,FRA,2022,,3,,0,N/A,FTI,SH,frigate,,,,,Greece,France,N,0,0,0
+39700,GRE,FRA,2008,X,60,X,2020,N/A,MM-40-3 Exocet,MI,anti-ship/land-attack missile,L,60,X,2010-2020,Greece,France,N,1,60,60
+65357,GRE,FRA,2022,,,,0,N/A,MM-40-3 Exocet,MI,anti-ship/land-attack missile,L,,,,Greece,France,N,1,0,0
+65352,GRE,FRA,2022,,60,X,0,N/A,MU90 IMPACT,MI,ASW torpedo,L,,,,Greece,France,N,0.5,30,0
+31030,GRE,FRA,2003,,20,,0,LIC,NH-90 TTH,AC,transport helicopter,L,17,X,2011-2022,Greece,France,N,7,140,119
+36015,GRE,FRA,2021,,12,,0,N/A,Rafale,AC,FGA aircraft,L,7,,2021-2022,Greece,France,R,36.3,435.6,254.1
+63908,GRE,FRA,2021,,6,,0,N/A,Rafale,AC,FGA aircraft,L,3,,2022,Greece,France,N,55,330,165
+64789,GRE,FRA,2022,,6,,0,N/A,Rafale,AC,FGA aircraft,L,,,,Greece,France,N,55,330,0
+64301,GRE,FRA,2021,,,,0,N/A,Storm Shadow/SCALP-EG,MI,ASM,L,18,X,2021-2022,Greece,France,N,0.64,0,11.52
+61786,GUI,FRA,2017,,1,,2017,AID,SA-330 Puma,AC,helicopter,L,1,,2017,Guinea,France,S,2.4,2.4,2.4
+56452,HUN,FRA,2018,,16,,0,N/A,EC725 Super Cougar,AC,transport helicopter,L,,,,Hungary,France,N,7.5,120,0
+57848,HUN,FRA,2014,,118,X,2019,N/A,Mistral,MI,portable SAM,L,118,X,2016-2019,Hungary,France,N,0.09,10.62,10.62
+36174,IND,FRA,2020,,300,X,0,N/A,AASM Hammer,MI,ASM,L,220,X,2020-2022,India,France,N,0.2,60,44
+65321,IND,FRA,2021,,,,0,N/A,AASM Hammer,MI,ASM,L,,,,India,France,N,0.2,0,0
+35077,IND,FRA,2016,X,320,X,0,LIC,aircraft engine,EN,aircraft engine,L,8,X,2022,India,France,N,0.5,160,4
+64459,IND,FRA,2021,,24,,0,VIA,FLASH,GR,ASW sonar,L,6,,2021-2022,India,France,N,2,48,12
+32122,IND,FRA,2009,,19,,2016,LIC,GS-100,GR,air search radar,L,19,X,2010-2016,India,France,N,7.5,142.5,142.5
+51129,IND,FRA,2012,,493,,2021,OFFS,MICA,MI,BVRAAM,L,493,X,2014-2021,India,France,N,0.4,197.2,197.2
+60696,IND,FRA,2017,,350,X,0,N/A,MICA,MI,BVRAAM,L,220,X,2021-2022,India,France,N,0.4,140,88
+21042,IND,FRA,1979,X,24730,X,0,LIC,MILAN,MI,anti-tank missile,L,23500,X,1984-2022,India,France,N,0.01,247.3,235
+55541,IND,FRA,2021,,13,,0,N/A,Mirage-2000,AC,FGA aircraft,L,2,,2021,India,France,S,8.8,114.4,17.6
+39377,IND,FRA,2011,,49,X,0,LIC,Mirage-2000-5,AC,FGA aircraft,L,31,X,2015-2022,India,France,N,31,1519,961
+61338,IND,FRA,2019,X,,,0,N/A,Mistral,MI,portable SAM,L,25,X,2022,India,France,N,0.09,0,2.25
+58668,IND,FRA,2017,,36,,2022,LIC,Rafale,AC,FGA aircraft,L,36,X,2019-2022,India,France,N,55,1980,1980
+56386,IND,FRA,2013,,20,,2016,LIC,SA-315B Lama,AC,light helicopter,L,20,X,2015-2016,India,France,N,0.75,15,15
+64353,IND,FRA,2018,X,10,,0,LIC,SA-315B Lama,AC,light helicopter,L,3,X,2021-2022,India,France,N,0.75,7.5,2.25
+62823,IND,FRA,2017,,8,,2020,LIC,SA-316B Alouette-3,AC,light helicopter,L,8,X,2019-2020,India,France,N,0.9,7.2,7.2
+32031,IND,FRA,2005,,6,,0,LIC,Scorpene,SH,submarine,L,5,,2017-2022,India,France,N,299.52,1797.12,1497.6
+58506,IND,FRA,2012,X,14,X,2017,N/A,Sherpa,AV,APC/APV,L,14,X,2013-2017,India,France,N,0.25,3.5,3.5
+40319,IND,FRA,2004,X,6,,2013,LIC,ship engine,EN,ship engine,,6,,2008-2013,India,France,N,3,18,18
+55772,IND,FRA,2006,X,8,,2014,LIC,ship engine,EN,ship engine,,8,,2013-2014,India,France,N,3,24,24
+60549,IND,FRA,2003,X,16,,2020,LIC,ship engine,EN,ship engine,,16,,2014-2020,India,France,N,1.5,24,24
+30906,IND,FRA,2005,,36,,0,N/A,SM-39 Exocet,MI,anti-ship missile,L,27,X,2017-2022,India,France,N,0.9,32.4,24.3
+60697,IND,FRA,2017,,200,X,2022,N/A,Storm Shadow/SCALP-EG,MI,ASM,L,200,X,2020-2022,India,France,N,0.64,128,128
+53992,INS,FRA,2012,X,6,,2017,N/A,AS-350/AS-550 Fennec,AC,light helicopter,L,6,X,2014-2017,Indonesia,France,N,0.9,5.4,5.4
+58034,INS,FRA,2012,,6,,2017,N/A,AS-355/AS-555 Fennec,AC,light helicopter,L,6,X,2017,Indonesia,France,N,1.3,7.8,7.8
+27366,INS,FRA,1997,,10,X,2021,LIC,AS-532 Cougar/AS-332,AC,transport helicopter,L,10,X,2001-2021,Indonesia,France,N,7.25,72.5,72.5
+63289,INS,FRA,2014,,9,X,2019,ASS,AS565M Panther,AC,helicopter,L,9,,2017-2019,Indonesia,France,N,5,45,45
+53993,INS,FRA,2014,,2,X,2020,ASS,AS-565S Panther,AC,ASW helicopter,L,2,,2019-2020,Indonesia,France,N,5,10,10
+55372,INS,FRA,2012,,37,,2015,N/A,CAESAR 155mm,AR,self-propelled gun,,37,X,2014-2015,Indonesia,France,N,1.07,39.59,39.59
+60882,INS,FRA,2017,,18,,2020,N/A,CAESAR 155mm,AR,self-propelled gun,,18,,2019-2020,Indonesia,France,N,1.07,19.26,19.26
+52766,INS,FRA,2012,,6,,2017,N/A,EC725 Super Cougar,AC,transport helicopter,L,6,,2016-2017,Indonesia,France,N,7.5,45,45
+58033,INS,FRA,2019,,8,,0,ASS,EC725 Super Cougar,AC,transport helicopter,L,,,,Indonesia,France,N,7.5,60,0
+58134,INS,FRA,2014,,5,X,2017,N/A,Ground Master-200,GR,air search radar,L,5,X,2016-2017,Indonesia,France,N,10,50,50
+54517,INS,FRA,2022,,13,,0,LIC,Ground Master-400,GR,air search radar,L,,,,Indonesia,France,N,13,169,0
+55629,INS,FRA,2018,X,40,X,2020,N/A,MICA,MI,BVRAAM,L,40,X,2019-2020,Indonesia,France,N,0.4,16,16
+56971,INS,FRA,2012,X,136,X,2016,N/A,Mistral,MI,portable SAM,L,136,X,2013-2016,Indonesia,France,N,0.09,12.24,12.24
+62945,INS,FRA,2016,,50,X,2022,N/A,MM-40-3 Exocet,MI,anti-ship/land-attack missile,L,50,X,2019-2022,Indonesia,France,N,1,50,50
+51523,INS,FRA,2009,,1,X,2013,N/A,Ocean Master,GR,MP aircraft radar,L,1,,2013,Indonesia,France,N,2.5,2.5,2.5
+51964,INS,FRA,2022,,42,X,0,OFFS,Rafale F4,AC,FGA aircraft,,,,,Indonesia,France,N,0,0,0
+52953,INS,FRA,2011,,100,X,2015,LIC,Sherpa,AV,APC/APV,L,100,X,2011-2015,Indonesia,France,N,0.25,25,25
+55213,INS,FRA,2013,,2,,2017,N/A,TSM-2633 Spherion-B,GR,ASW sonar,L,2,,2017,Indonesia,France,N,5,10,10
+52952,INS,FRA,2010,X,12,,2013,N/A,vehicle engine,EN,vehicle engine,,12,X,2013,Indonesia,France,N,0.05,0.6,0.6
+55572,INS,FRA,2012,X,134,X,2015,N/A,vehicle engine,EN,vehicle engine,,134,X,2013-2015,Indonesia,France,N,0.05,6.7,6.7
+59986,INS,FRA,2016,X,14,X,2021,N/A,vehicle engine,EN,vehicle engine,,14,X,2019-2021,Indonesia,France,N,0.05,0.7,0.7
+60700,INS,FRA,2016,,2,,2020,N/A,VL-MICA-M,NW,naval SAM system,L,2,,2019-2020,Indonesia,France,N,5,10,10
+65700,IRQ,FRA,2021,X,12,,0,N/A,Ground Master-200,GR,air search radar,L,,,,Iraq,France,N,10,120,0
+64003,IRQ,FRA,2022,,4,,0,N/A,Ground Master-400,GR,air search radar,L,2,X,2022,Iraq,France,N,13,52,26
+52436,ITA,FRA,2006,X,21,,2017,N/A,2R2M 120mm,AR,mortar,L,21,X,2014-2017,Italy,France,N,0.1,2.1,2.1
+63717,ITA,FRA,2018,X,38,X,0,N/A,2R2M 120mm,AR,mortar,L,20,X,2019-2022,Italy,France,N,0.1,3.8,2
+36133,ITA,FRA,2000,X,10,X,2019,N/A,BlueMaster,GR,ASW sonar,L,10,,2007-2019,Italy,France,N,10,100,100
+36137,ITA,FRA,2005,X,4,,2016,N/A,CAPTAS-4,GR,ASW sonar,L,4,,2013-2016,Italy,France,N,11,44,44
+61296,IVO,FRA,2014,X,1,,2014,N/A,AS365/AS565 Panther,AC,helicopter,L,1,,2014,Cote d'Ivoire,France,S,1.3,1.3,1.3
+65467,IVO,FRA,2022,,1,,2022,N/A,P-400,SH,patrol craft,L,1,,2022,Cote d'Ivoire,France,S,7.6,7.6,7.6
+57051,IVO,FRA,2013,X,3,,2016,N/A,RPB-33,SH,patrol craft,L,3,,2014-2016,Cote d'Ivoire,France,N,5,15,15
+20849,JAP,FRA,1989,,480,X,2021,LIC,MO-120-RT 120mm,AR,mortar,L,480,X,1990-2021,Japan,France,N,0.1,48,48
+58790,JOR,FRA,2014,,3,X,2017,N/A,I-Master,GR,AGS/MP aircraft radar,,3,,2014-2017,Jordan,France,N,2.5,7.5,7.5
+57626,KAZ,FRA,2014,X,20,X,0,LIC,Ground Master-400,GR,air search radar,L,,,,Kazakhstan,France,N,13,260,0
+58453,KAZ,FRA,2013,,1,,2014,N/A,Ground Master-400,GR,air search radar,L,1,,2014,Kazakhstan,France,N,13,13,13
+62297,KEN,FRA,2018,X,12,,2018,VIA,Bastion,AV,APC/APV,L,12,,2018,Kenya,France,N,0.16,1.92,1.92
+32134,KOS,FRA,2016,,4,,2019,VIA,A-330 MRTT,AC,tanker/transport aircraft,L,4,X,2018-2019,South Korea,France,N,98,392,392
+57872,KOS,FRA,2015,,210,X,0,LIC,EC155,AC,helicopter,L,,,,South Korea,France,N,0,0,0
+53147,KOS,FRA,2021,,4,,0,N/A,Falcon-2000,AC,transport aircraft,L,,,,South Korea,France,N,17.25,69,0
+54422,KOS,FRA,2011,X,2,,2017,N/A,Falcon-2000,AC,transport aircraft,L,2,X,2017,South Korea,France,N,17.25,34.5,34.5
+55836,KOS,FRA,2013,,8,,2016,N/A,FLASH,GR,ASW sonar,L,8,X,2016,South Korea,France,N,2,16,16
+62903,KOS,FRA,2015,X,4,,2021,N/A,ship engine,EN,ship engine,,4,,2021,South Korea,France,N,2.5,10,10
+58764,KUW,FRA,2016,,30,,2021,N/A,EC725 Super Cougar,AC,transport helicopter,L,30,X,2020-2021,Kuwait,France,N,7.5,225,225
+59295,KUW,FRA,2015,,120,,2018,N/A,Sherpa,AV,APC/APV,L,120,X,2016-2018,Kuwait,France,N,0.25,30,30
+59587,KUW,FRA,2018,,300,X,2021,N/A,Sherpa,AV,APC/APV,L,300,X,2019-2021,Kuwait,France,N,0.25,75,75
+59570,LAO,FRA,2014,X,2,X,2015,N/A,AS365/AS565 Panther,AC,helicopter,L,2,,2015,Laos,France,N,3.25,6.5,6.5
+60985,LEB,FRA,2016,,600,X,2019,AID,HOT,MI,anti-tank missile,L,600,X,2017-2019,Lebanon,France,S,0.008,4.8,4.8
+58591,LEB,FRA,2014,,48,,2015,N/A,MILAN,MI,anti-tank missile,L,48,,2015,Lebanon,France,N,0.01,0.48,0.48
+58505,LEB,FRA,2012,X,9,X,2013,N/A,Sherpa,AV,APC/APV,L,9,,2013,Lebanon,France,N,0.25,2.25,2.25
+60984,LEB,FRA,2016,,25,X,2019,AID,VAB-VCAC,AV,tank destroyer,L,25,X,2017-2019,Lebanon,France,S,0.36,9,9
+56859,LEB,FRA,2012,X,4,X,2013,N/A,VAB-VTT,AV,APC,L,4,,2013,Lebanon,France,N,0.3,1.2,1.2
+61626,LES,FRA,2016,X,1,,2017,N/A,AS-350/AS-550 Fennec,AC,light helicopter,L,1,,2017,Lesotho,France,N,0.9,0.9,0.9
+62236,LES,FRA,2017,X,1,,2018,N/A,AS-350/AS-550 Fennec,AC,light helicopter,L,1,,2018,Lesotho,France,N,0.9,0.9,0.9
+63104,LES,FRA,2019,,1,,2019,N/A,AS-350/AS-550 Fennec,AC,light helicopter,L,1,,2019,Lesotho,France,N,0.9,0.9,0.9
+56663,LIT,FRA,2013,,3,,2015,N/A,AS365/AS565 Panther,AC,helicopter,L,3,,2015,Lithuania,France,N,3.25,9.75,9.75
+65597,LIT,FRA,2022,,18,,0,N/A,CAESAR 155mm,AR,self-propelled gun,,,,,Lithuania,France,N,1.07,19.26,0
+66397,LUX,FRA,2022,,,,0,N/A,Akeron-MP,MI,anti-tank missile,L,,,,Luxembourg,France,N,0,0,0
+55348,MAL,FRA,2011,X,8,,2019,N/A,2R2M 120mm,AR,mortar,L,8,X,2018-2019,Malaysia,France,N,0.1,0.8,0.8
+59924,MAL,FRA,2015,,3,,2016,N/A,EC-120 Colibri,AC,light helicopter,L,3,X,2016,Malaysia,France,N,0.7,2.1,2.1
+33178,MAL,FRA,2010,,12,,2014,N/A,EC725 Super Cougar,AC,transport helicopter,L,12,X,2012-2014,Malaysia,France,N,7.5,90,90
+54253,MAL,FRA,2014,,6,,0,LIC,Gowind-2500,SH,frigate,L,,,,Malaysia,France,N,211,1266,0
+59095,MAL,FRA,2015,,1,X,2016,N/A,Ground Master-200,GR,air search radar,L,1,X,2016,Malaysia,France,N,10,10,10
+50369,MAL,FRA,2008,,1,,2013,N/A,Ground Master-400,GR,air search radar,L,1,,2013,Malaysia,France,N,13,13,13
+61803,MAL,FRA,2018,,18,,2021,ASS,LG1 105mm,AR,towed gun,L,18,,2020-2021,Malaysia,France,N,0.6,10.8,10.8
+58542,MAL,FRA,2015,X,,,0,N/A,MICA,MI,BVRAAM,L,,,,Malaysia,France,N,0.4,0,0
+57844,MEX,FRA,2014,,10,,2017,N/A,AS565M Panther,AC,helicopter,L,10,,2016-2017,Mexico,France,N,5,50,50
+62339,MEX,FRA,2017,X,1,,2020,VIA,CAPTAS-2,GR,ASW sonar,L,1,X,2020,Mexico,France,N,9,9,9
+52300,MEX,FRA,2010,,6,,2014,N/A,EC725 Super Cougar,AC,transport helicopter,L,6,X,2012-2014,Mexico,France,N,7.5,45,45
+58287,MEX,FRA,2014,X,2,,2016,N/A,EC725 Super Cougar,AC,transport helicopter,L,2,,2016,Mexico,France,N,7.5,15,15
+62365,MEX,FRA,2018,X,1,,2018,N/A,EC725 Super Cougar,AC,transport helicopter,L,1,,2018,Mexico,France,N,7.5,7.5,7.5
+60355,MLI,FRA,2016,,2,,2017,N/A,AS-532 Cougar/AS-332,AC,transport helicopter,L,2,,2016-2017,Mali,France,S,2.9,5.8,5.8
+59703,MLI,FRA,2015,,5,X,2016,N/A,Bastion,AV,APC/APV,L,5,X,2016,Mali,France,N,0.16,0.8,0.8
+63304,MLI,FRA,2019,,13,,2020,AID,Bastion,AV,APC/APV,L,13,,2020,Mali,France,N,0.16,2.08,2.08
+53768,MLI,FRA,2011,,2,X,2013,N/A,LH-10 Ellipse,AC,trainer aircraft,L,2,X,2013,Mali,France,N,0.11,0.22,0.22
+51350,MOR,FRA,2008,X,25,X,2014,N/A,ASTER-15 SAAM,MI,SAM,L,25,X,2014,Morocco,France,N,0.3,7.5,7.5
+63334,MOR,FRA,2020,,36,X,0,N/A,CAESAR 155mm,AR,self-propelled gun,,6,X,2022,Morocco,France,N,1.07,38.52,6.42
+40106,MOR,FRA,2008,,1,,2014,N/A,FREMM,SH,frigate,L,1,,2014,Morocco,France,N,482.95,482.95,482.95
+54538,MOR,FRA,2013,,3,X,2014,N/A,Ground Master-400,GR,air search radar,L,3,X,2014,Morocco,France,N,13,39,39
+65011,MOR,FRA,2019,,2,X,2022,N/A,Ground Master-400,GR,air search radar,L,2,X,2021-2022,Morocco,France,N,13,26,26
+57071,MOR,FRA,2013,,2,,2018,N/A,Helios-2,SA,recce satellite,L,2,,2017-2018,Morocco,France,N,50,100,100
+57008,MOR,FRA,2013,,3,,2014,N/A,Heron,AC,UAV,L,3,X,2014,Morocco,France,S,1.2,3.6,3.6
+58918,MOR,FRA,2015,,1,,2016,N/A,LCT 50m,SH,landing craft,,1,,2016,Morocco,France,N,9.5,9.5,9.5
+63588,MOR,FRA,2020,,200,X,0,N/A,MICA,MI,BVRAAM,L,100,X,2022,Morocco,France,N,0.4,80,40
+51106,MOR,FRA,2008,X,15,X,2014,N/A,MM-40-3 Exocet,MI,anti-ship/land-attack missile,L,15,X,2014,Morocco,France,N,1,15,15
+51107,MOR,FRA,2008,X,25,X,2013,N/A,MM-40-3 Exocet,MI,anti-ship/land-attack missile,L,25,X,2012-2013,Morocco,France,N,1,25,25
+63664,MOR,FRA,2020,,36,,0,N/A,Sherpa,AV,APC/APV,L,12,X,2022,Morocco,France,N,0.25,9,3
+63335,MOR,FRA,2020,,4,X,0,N/A,VL-MICA,AD,SAM system,L,2,X,2022,Morocco,France,N,20,80,40
+59446,MOZ,FRA,2015,,3,,2016,N/A,HSI-32,SH,patrol craft,L,3,X,2015-2016,Mozambique,France,N,5,15,15
+56330,MOZ,FRA,2013,,3,,2016,PRIV,Ocean Eagle-43,SH,patrol craft,L,3,,2016,Mozambique,France,N,11,33,33
+63314,MRA,FRA,2019,,7,,2019,N/A,Bastion,AV,APC/APV,L,7,,2019,Mauritania,France,N,0.16,1.12,1.12
+60657,MYA,FRA,2010,X,8,,2015,N/A,ship engine,EN,ship engine,,8,,2014-2015,Myanmar,France,N,2.5,20,20
+64087,NAT,FRA,2016,,9,,0,VIA,A-330 MRTT,AC,tanker/transport aircraft,L,7,,2020-2022,NATO**,France,N,98,882,686
+62004,NEP,FRA,2017,X,1,,2018,N/A,AS-350/AS-550 Fennec,AC,light helicopter,L,1,,2018,Nepal,France,N,0.9,0.9,0.9
+52989,NET,FRA,2000,X,24,X,2015,N/A,aircraft engine,EN,aircraft engine,L,24,X,2010-2015,Netherlands,France,N,0.75,18,18
+37700,NET,FRA,2000,,13,,2015,N/A,ENR,GR,MP aircraft radar,L,13,X,2010-2015,Netherlands,France,N,3.5,45.5,45.5
+61647,NET,FRA,2019,,6,,0,N/A,MCM-2720,SH,MCM ship,,,,,Netherlands,France,N,0,0,0
+54712,NIG,FRA,2016,X,2,,2018,N/A,FPB-110,SH,patrol craft,L,2,,2018,Nigeria,France,N,6.8,13.6,13.6
+63327,NIG,FRA,2019,,2,,2021,N/A,FPB-110,SH,patrol craft,L,2,X,2020-2021,Nigeria,France,N,6.8,13.6,13.6
+60708,NIG,FRA,2017,X,2,,2017,N/A,FPB-72,SH,patrol craft,L,2,,2017,Nigeria,France,N,3.6,7.2,7.2
+61372,NIG,FRA,2017,,2,,2018,N/A,FPB-72,SH,patrol craft,L,2,,2018,Nigeria,France,N,3.6,7.2,7.2
+63328,NIG,FRA,2019,,1,,2020,N/A,FPB-72,SH,patrol craft,L,1,,2020,Nigeria,France,N,3.6,3.6,3.6
+53303,NIG,FRA,2021,X,2,,0,N/A,FPB-98,SH,patrol craft,L,,,,Nigeria,France,N,6.5,13,0
+56356,NIG,FRA,2012,X,1,,2013,N/A,FPB-98,SH,patrol craft,L,1,,2013,Nigeria,France,N,6.5,6.5,6.5
+64981,NIG,FRA,2021,X,40,X,0,VIA,Mistral,MI,portable SAM,L,,,,Nigeria,France,N,0.09,3.6,0
+59982,NIG,FRA,2013,X,3,,2013,AID,SA-342 Gazelle,AC,light helicopter,L,3,,2013,Nigeria,France,S,0.34,1.02,1.02
+63316,NIR,FRA,2019,,13,,2019,N/A,Bastion,AV,APC/APV,L,13,,2019,Niger,France,N,0.16,2.08,2.08
+56792,NIR,FRA,2012,,3,,2013,AID,SA-342 Gazelle,AC,light helicopter,L,3,,2013,Niger,France,S,0.34,1.02,1.02
+66066,NIR,FRA,2022,,2,,2022,AID,SA-342 Gazelle,AC,light helicopter,L,2,,2022,Niger,France,S,0.34,0.68,0.68
+60629,NIR,FRA,2015,,4,,2015,AID,VAB-VTT,AV,APC,L,4,,2015,Niger,France,S,0.12,0.48,0.48
+37696,NOR,FRA,2002,,6,X,2021,N/A,FLASH,GR,ASW sonar,L,6,X,2016-2021,Norway,France,N,2,12,12
+34772,NOR,FRA,2003,,6,,2013,N/A,MRR-3D,GR,air search radar,L,6,X,2010-2013,Norway,France,N,10,60,60
+37703,NOR,FRA,2001,,14,,2019,N/A,Ocean Master,GR,MP aircraft radar,L,14,X,2011-2019,Norway,France,N,2.5,35,35
+32035,NZ,FRA,2006,,9,,2014,N/A,NH-90 TTH,AC,transport helicopter,L,9,,2011-2014,New Zealand,France,N,7,63,63
+39308,OMA,FRA,2007,X,60,X,2014,N/A,MICA,MI,BVRAAM,L,60,X,2013-2014,Oman,France,N,0.4,24,24
+39699,OMA,FRA,2006,,50,X,2014,N/A,MM-40-3 Exocet,MI,anti-ship/land-attack missile,L,50,X,2013-2014,Oman,France,N,1,50,50
+32684,OMA,FRA,2004,,20,,2017,N/A,NH-90 TTH,AC,transport helicopter,L,20,X,2010-2017,Oman,France,N,7,140,140
+51929,PAK,FRA,2007,,2,,2013,N/A,air-independent ship engine,EN,AIP engine,L,2,X,2012-2013,Pakistan,France,N,2,4,4
+50752,PAK,FRA,2007,X,10,,2014,N/A,AS-350/AS-550 Fennec,AC,light helicopter,L,10,X,2013-2014,Pakistan,France,N,0.9,9,9
+50859,PAK,FRA,2007,,10,,2013,N/A,RAC-3D,GR,air search radar,L,10,X,2010-2013,Pakistan,France,N,4.76,47.6,47.6
+58021,PAK,FRA,2013,X,2,,2014,N/A,SA-316B Alouette-3,AC,light helicopter,L,2,,2014,Pakistan,France,S,0.36,0.72,0.72
+55804,PAK,FRA,2005,,16,,2013,VIA,ship engine,EN,ship engine,,16,,2009-2013,Pakistan,France,N,2.5,40,40
+52352,PER,FRA,2014,,1,,2016,OFFS,Astrosat-300,SA,recce satellite,,1,,2016,Peru,France,N,50,50,50
+52931,PER,FRA,2012,,16,,2015,N/A,MM-40-3 Exocet,MI,anti-ship/land-attack missile,L,16,X,2014-2015,Peru,France,N,1,16,16
+60132,PHI,FRA,2016,,2,,2019,N/A,FLASH,GR,ASW sonar,L,2,,2019,Philippines,France,N,2,4,4
+62563,PHI,FRA,2019,,40,X,2021,N/A,Mistral,MI,portable SAM,L,40,X,2021,Philippines,France,N,0.09,3.6,3.6
+56718,POL,FRA,2013,,2,,2013,N/A,Cabri G2,AC,light helicopter,L,2,,2013,Poland,France,N,0.2,0.4,0.4
+64496,POR,FRA,2019,X,44,X,2020,N/A,MILAN,MI,anti-tank missile,L,44,,2020,Portugal,France,N,0.01,0.44,0.44
+58785,QAT,FRA,2015,,300,,2020,N/A,AASM Hammer,MI,ASM,L,300,X,2019-2020,Qatar,France,N,0.2,60,60
+58783,QAT,FRA,2015,,60,,2020,N/A,AM-39 Exocet,MI,anti-ship missile,L,60,X,2019-2020,Qatar,France,N,0.9,54,54
+61705,QAT,FRA,2018,,16,,2020,N/A,AS-350/AS-550 Fennec,AC,light helicopter,L,16,X,2018-2020,Qatar,France,N,0.9,14.4,14.4
+59697,QAT,FRA,2016,,2,X,0,N/A,Exocet CDS,GR,coastal defence system,L,1,X,2022,Qatar,France,N,15,30,15
+54419,QAT,FRA,2011,,22,,2013,POLI,Higuard,AV,APC,L,22,,2012-2013,Qatar,France,N,0.4,8.8,8.8
+61273,QAT,FRA,2015,,52,,2020,SPAR,M-88,EN,turbofan,L,52,X,2019-2020,Qatar,France,N,2.5,130,130
+58786,QAT,FRA,2015,,300,,2020,N/A,MICA,MI,BVRAAM,L,300,X,2019-2020,Qatar,France,N,0.4,120,120
+59843,QAT,FRA,2016,X,30,X,2022,N/A,MICA,MI,BVRAAM,L,30,X,2022,Qatar,France,N,0.4,12,12
+58416,QAT,FRA,2012,,500,X,2015,N/A,MILAN,MI,anti-tank missile,L,500,X,2015,Qatar,France,N,0.01,5,5
+36680,QAT,FRA,2009,X,35,X,2013,N/A,Mistral,MI,portable SAM,L,35,X,2010-2013,Qatar,France,N,0.09,3.15,3.15
+51910,QAT,FRA,2010,,70,X,2013,N/A,MM-40-3 Exocet,MI,anti-ship/land-attack missile,L,70,X,2012-2013,Qatar,France,N,1,70,70
+59696,QAT,FRA,2016,,20,X,0,N/A,MM-40-3 Exocet,MI,anti-ship/land-attack missile,L,10,X,2022,Qatar,France,N,1,20,10
+59845,QAT,FRA,2016,X,80,X,0,N/A,MM-40-3 Exocet,MI,anti-ship/land-attack missile,L,66,X,2021-2022,Qatar,France,N,1,80,66
+54988,QAT,FRA,2018,,16,,0,VIA,NH-90 TTH,AC,transport helicopter,L,2,X,2021-2022,Qatar,France,N,7,112,14
+52489,QAT,FRA,2015,,24,,2020,N/A,Rafale,AC,FGA aircraft,L,24,X,2019-2020,Qatar,France,N,55,1320,1320
+61481,QAT,FRA,2017,,12,,2022,N/A,Rafale,AC,FGA aircraft,L,12,,2021-2022,Qatar,France,N,55,660,660
+54420,QAT,FRA,2011,,10,X,2013,POLI,Sherpa,AV,APC/APV,L,10,X,2012-2013,Qatar,France,N,0.25,2.5,2.5
+58784,QAT,FRA,2015,,140,,2020,N/A,Storm Shadow/SCALP-EG,MI,ASM,L,140,X,2019-2020,Qatar,France,N,0.64,89.6,89.6
+59844,QAT,FRA,2016,X,2,,2022,N/A,VL-MICA-M,NW,naval SAM system,L,2,,2022,Qatar,France,N,5,10,10
+39246,ROM,FRA,2019,X,4,,0,N/A,Gowind-2500,SH,frigate,L,,,,Romania,France,N,211,844,0
+58394,ROM,FRA,2012,,16,,2015,PEAC,VAP,AV,APV,L,16,,2013-2015,Romania,France,N,0.12,1.92,1.92
+56392,RUS,FRA,2012,,3,,2013,N/A,AS-350/AS-550 Fennec,AC,light helicopter,L,3,,2013,Russia,France,N,0.9,2.7,2.7
+56393,RUS,FRA,2012,,2,,2013,N/A,AS-355/AS-555 Fennec,AC,light helicopter,L,2,,2013,Russia,France,N,1.3,2.6,2.6
+37875,SA,FRA,1996,X,22,X,2013,ASS,aircraft engine,EN,aircraft engine,L,22,X,2011-2013,South Africa,France,N,0.5,11,11
+51049,SAU,FRA,2009,,3,,2015,VIA,A-330 MRTT,AC,tanker/transport aircraft,L,3,,2014-2015,Saudi Arabia,France,N,98,294,294
+54540,SAU,FRA,2011,,73,X,2015,N/A,Aravis,AV,APC,L,73,X,2013-2015,Saudi Arabia,France,N,0.27,19.71,19.71
+54542,SAU,FRA,2012,,191,,2016,N/A,Aravis,AV,APC,L,191,X,2015-2016,Saudi Arabia,France,N,0.27,51.57,51.57
+62010,SAU,FRA,2013,X,500,X,2018,N/A,ARIVE,AV,APC,,500,X,2016-2018,Saudi Arabia,France,N,0.25,125,125
+63572,SAU,FRA,2019,X,7,,2021,N/A,AS-532 Cougar/AS-332,AC,transport helicopter,L,7,,2020-2021,Saudi Arabia,France,N,7.25,50.75,50.75
+61145,SAU,FRA,2015,X,71,X,2016,N/A,Bastion,AV,APC/APV,L,71,X,2016,Saudi Arabia,France,N,0.16,11.36,11.36
+55149,SAU,FRA,2011,X,1000,X,2013,N/A,BONUS-2,MI,guided shell,L,1000,X,2012-2013,Saudi Arabia,France,N,0.04,40,40
+55235,SAU,FRA,2011,,32,,2015,ASS,CAESAR 155mm,AR,self-propelled gun,,32,X,2013-2015,Saudi Arabia,France,N,1.07,34.24,34.24
+61988,SAU,FRA,2018,,24,,2018,N/A,CAESAR 155mm,AR,self-propelled gun,,24,X,2018,Saudi Arabia,France,N,1.07,25.68,25.68
+66107,SAU,FRA,2018,,5,,0,N/A,CAPTAS-2,GR,ASW sonar,L,3,,2022,Saudi Arabia,France,N,9,45,27
+60478,SAU,FRA,2014,X,4,X,2019,N/A,COBRA,GR,arty locating radar,L,4,X,2019,Saudi Arabia,France,N,10,40,40
+50110,SAU,FRA,2007,X,60,X,2017,ASS,Damocles,GR,aircraft EO system,L,60,X,2009-2017,Saudi Arabia,France,N,1,60,60
+59029,SAU,FRA,2015,,10,X,2019,N/A,FLASH,GR,ASW sonar,L,10,X,2018-2019,Saudi Arabia,France,N,2,20,20
+65031,SAU,FRA,2020,X,12,,0,N/A,FPB-2200,SH,FAC,,7,X,2022,Saudi Arabia,France,N,4,48,28
+55203,SAU,FRA,2011,,20,X,2015,N/A,Ground Master-60,GR,air search radar,L,20,X,2013-2015,Saudi Arabia,France,N,7.5,150,150
+61773,SAU,FRA,2018,,39,,2022,LIC,HSI-32,SH,patrol craft,L,39,X,2020-2022,Saudi Arabia,France,N,5,195,195
+63795,SAU,FRA,2020,,19,,0,LIC,HSI-32,SH,patrol craft,L,,,,Saudi Arabia,France,N,5,95,0
+62858,SAU,FRA,2017,X,88,X,2021,N/A,LG1 105mm,AR,towed gun,L,88,,2018-2021,Saudi Arabia,France,N,0.6,52.8,52.8
+62366,SAU,FRA,2013,,250,X,2019,N/A,MICA,MI,BVRAAM,L,250,X,2018-2019,Saudi Arabia,France,N,0.4,100,100
+62509,SAU,FRA,2018,X,120,X,0,N/A,MICA,MI,BVRAAM,L,70,X,2022,Saudi Arabia,France,N,0.4,48,28
+57210,SAU,FRA,2013,X,100,X,2014,N/A,MILAN,MI,anti-tank missile,L,100,X,2014,Saudi Arabia,France,N,0.01,1,1
+55200,SAU,FRA,2011,,1000,X,2015,N/A,Mistral,MI,portable SAM,L,1000,X,2013-2015,Saudi Arabia,France,N,0.09,90,90
+56253,SAU,FRA,2013,,80,X,2017,N/A,Mistral,MI,portable SAM,L,80,X,2016-2017,Saudi Arabia,France,N,0.09,7.2,7.2
+53227,SAU,FRA,2011,,49,X,2015,N/A,MPCV,AD,self-propelled AD system,L,49,X,2013-2015,Saudi Arabia,France,N,0.63,30.87,30.87
+59976,SAU,FRA,2016,,100,,2017,N/A,Sherpa,AV,APC/APV,L,100,X,2016-2017,Saudi Arabia,France,N,0.25,25,25
+59975,SAU,FRA,2016,,100,,2020,N/A,VAB MK-3,AV,IFV,,100,X,2019-2020,Saudi Arabia,France,N,1.2,120,120
+56700,SAU,FRA,2013,,5,X,2019,N/A,VL-MICA,AD,SAM system,L,5,X,2018-2019,Saudi Arabia,France,N,20,100,100
+62508,SAU,FRA,2018,X,5,,0,N/A,VL-MICA,AD,SAM system,L,3,,2022,Saudi Arabia,France,N,20,100,60
+61916,SEN,FRA,2016,X,9,X,2017,N/A,Bastion,AV,APC/APV,L,9,,2017,Senegal,France,N,0.16,1.44,1.44
+62587,SEN,FRA,2018,,36,,2018,N/A,Bastion,AV,APC/APV,L,36,,2018,Senegal,France,N,0.16,5.76,5.76
+61807,SEN,FRA,2018,,2,X,2019,N/A,Ground Master-400,GR,air search radar,L,2,,2019,Senegal,France,N,13,26,26
+65460,SEN,FRA,2022,,8,,0,N/A,LG1 105mm,AR,towed gun,L,,,,Senegal,France,N,0.6,4.8,0
+63085,SEN,FRA,2019,X,30,X,0,N/A,Mistral,MI,portable SAM,L,,,,Senegal,France,N,0.09,2.7,0
+61929,SEN,FRA,2018,X,1,X,2021,VIA,Ocean Master,GR,MP aircraft radar,L,1,,2021,Senegal,France,N,2.5,2.5,2.5
+58324,SEN,FRA,2014,,1,,2016,N/A,OPV-190,SH,OPV,,1,,2016,Senegal,France,N,20,20,20
+56054,SEN,FRA,2013,,1,,2015,N/A,OPV-45,SH,patrol craft,L,1,,2015,Senegal,France,N,10.25,10.25,10.25
+63080,SEN,FRA,2019,,3,,0,N/A,OPV-58,SH,FAC,,,,,Senegal,France,N,0,0,0
+63087,SEN,FRA,2019,,,,0,N/A,Super Rapid 76mm,NW,naval gun,L,,,,Senegal,France,N,2.75,0,0
+59201,SEN,FRA,2014,X,4,,2015,N/A,TB-30 Epsilon,AC,trainer aircraft,L,4,,2015,Senegal,France,S,0.12,0.48,0.48
+62665,SEN,FRA,2019,X,2,,2019,AID,TB-30 Epsilon,AC,trainer aircraft,L,2,,2019,Senegal,France,S,0.12,0.24,0.24
+65202,SEN,FRA,2020,,2,,2021,N/A,TB-30 Epsilon,AC,trainer aircraft,L,2,,2021,Senegal,France,S,0.12,0.24,0.24
+61578,SEN,FRA,2016,,13,,2017,POLI,VAP,AV,APV,L,13,,2017,Senegal,France,N,0.12,1.56,1.56
+66123,SER,FRA,2021,X,7,,0,N/A,Ground Master-200,GR,air search radar,L,1,X,2022,Serbia,France,N,10,70,10
+66122,SER,FRA,2021,X,,,0,N/A,Ground Master-400,GR,air search radar,L,1,X,2022,Serbia,France,N,13,0,13
+66126,SER,FRA,2021,X,,,0,N/A,Ground Master-60,GR,air search radar,L,,,,Serbia,France,N,7.5,0,0
+62827,SER,FRA,2019,,50,,0,N/A,Mistral,MI,portable SAM,L,25,X,2022,Serbia,France,N,0.09,4.5,2.25
+31425,SIN,FRA,2014,,6,,2020,VIA,A-330 MRTT,AC,tanker/transport aircraft,L,6,,2018-2020,Singapore,France,N,98,588,588
+32301,SIN,FRA,2001,X,300,X,2013,N/A,ASTER-15 SAAM,MI,SAM,L,300,X,2006-2013,Singapore,France,N,0.3,90,90
+56335,SIN,FRA,2013,,200,X,2018,N/A,ASTER-30,MI,SAM,L,200,X,2017-2018,Singapore,France,N,1,200,200
+60390,SIN,FRA,2016,,12,X,2022,N/A,EC725 Super Cougar,AC,transport helicopter,L,12,X,2021-2022,Singapore,France,N,7.5,90,90
+56189,SIN,FRA,2012,,3,X,2013,N/A,Ground Master-200,GR,air search radar,L,3,X,2012-2013,Singapore,France,N,10,30,30
+58647,SIN,FRA,2014,X,51,X,2016,N/A,Higuard,AV,APC,L,51,X,2014-2016,Singapore,France,N,0.4,20.4,20.4
+59139,SIN,FRA,2013,X,150,X,2019,N/A,MICA,MI,BVRAAM,L,150,X,2017-2019,Singapore,France,N,0.4,60,60
+56624,SIN,FRA,2013,,2,X,2018,N/A,SAMP/T,AD,ABM/SAM system,L,2,X,2017-2018,Singapore,France,N,55,110,110
+60628,SIN,FRA,2014,X,60,X,2015,N/A,Sherpa,AV,APC/APV,L,60,,2015,Singapore,France,N,0.25,15,15
+59138,SIN,FRA,2013,,8,,2019,N/A,VL-MICA-M,NW,naval SAM system,L,8,,2017-2019,Singapore,France,N,5,40,40
+59222,SOM,FRA,2015,,13,,2016,N/A,Bastion,AV,APC/APV,L,13,,2016,Somalia,France,N,0.16,2.08,2.08
+60101,SPA,FRA,2015,X,2,,2017,N/A,AS-532 Cougar/AS-332,AC,transport helicopter,L,2,X,2016-2017,Spain,France,S,2.9,5.8,5.8
+60102,SPA,FRA,2016,,1,,2016,N/A,AS-532 Cougar/AS-332,AC,transport helicopter,L,1,,2016,Spain,France,N,7.25,7.25,7.25
+61476,SPA,FRA,2016,X,3,,2018,N/A,AS-532 Cougar/AS-332,AC,transport helicopter,L,3,,2017-2018,Spain,France,N,7.25,21.75,21.75
+63198,SPA,FRA,2019,,5,,0,N/A,BlueMaster,GR,ASW sonar,L,,,,Spain,France,N,10,50,0
+63194,SPA,FRA,2019,X,5,,0,N/A,CAPTAS-4,GR,ASW sonar,L,,,,Spain,France,N,11,55,0
+24327,SPA,FRA,2003,,24,,2020,LIC,EC-665 Tiger,AC,combat helicopter,L,24,X,2007-2020,Spain,France,N,11.5,276,276
+31073,SPA,FRA,2005,,22,,2022,LIC,NH-90 TTH,AC,transport helicopter,L,22,X,2014-2022,Spain,France,N,7,154,154
+58148,SRI,FRA,2014,X,4,,2018,VIA,ship engine,EN,ship engine,,4,,2017-2018,Sri Lanka,France,N,4,16,16
+56586,SUR,FRA,2012,,1,,2013,POLI,FPB-98,SH,patrol craft,L,1,,2013,Suriname,France,N,6.5,6.5,6.5
+37697,SWE,FRA,2001,X,5,,2017,N/A,FLASH,GR,ASW sonar,L,5,X,2015-2017,Sweden,France,N,2,10,10
+28423,SWE,FRA,2001,,13,,2019,LIC,NH-90 TTH,AC,transport helicopter,L,13,X,2011-2019,Sweden,France,N,7,91,91
+62212,TAN,FRA,2017,,8,,0,N/A,AS-350/AS-550 Fennec,AC,light helicopter,L,4,X,2018-2021,Tanzania,France,N,0.9,7.2,3.6
+61627,TAN,FRA,2017,,4,,2021,N/A,AS-532 Cougar/AS-332,AC,transport helicopter,L,4,X,2020-2021,Tanzania,France,N,7.25,29,29
+61628,TAN,FRA,2017,,2,,2018,N/A,EC725 Super Cougar,AC,transport helicopter,L,2,,2018,Tanzania,France,N,7.5,15,15
+54261,THA,FRA,2011,,8,,2014,N/A,AS-350/AS-550 Fennec,AC,light helicopter,L,8,X,2013-2014,Thailand,France,N,0.9,7.2,7.2
+36683,THA,FRA,2012,,4,,2015,N/A,EC725 Super Cougar,AC,transport helicopter,L,4,,2015,Thailand,France,N,7.5,30,30
+58007,THA,FRA,2014,,2,,2016,N/A,EC725 Super Cougar,AC,transport helicopter,L,2,,2016,Thailand,France,N,7.5,15,15
+60309,THA,FRA,2016,,2,,2018,N/A,EC725 Super Cougar,AC,transport helicopter,L,2,,2018,Thailand,France,N,7.5,15,15
+62167,THA,FRA,2018,,4,,2021,N/A,EC725 Super Cougar,AC,transport helicopter,L,4,,2021,Thailand,France,N,7.5,30,30
+64272,THA,FRA,2021,X,12,,0,N/A,LG1 105mm,AR,towed gun,L,,,,Thailand,France,N,0.6,7.2,0
+62367,THA,FRA,2016,,50,X,2018,N/A,MICA,MI,BVRAAM,L,50,X,2018,Thailand,France,N,0.4,20,20
+61458,THA,FRA,2016,X,1,,2018,N/A,VL-MICA,AD,SAM system,L,1,,2018,Thailand,France,N,20,20,20
+57781,TOG,FRA,2013,,30,,2014,N/A,Bastion,AV,APC/APV,L,30,,2014,Togo,France,N,0.16,4.8,4.8
+56053,TOG,FRA,2013,,2,,2014,N/A,RPB-33,SH,patrol craft,L,2,,2014,Togo,France,N,5,10,10
+63272,TOG,FRA,2016,,4,,2020,N/A,SA-342 Gazelle,AC,light helicopter,L,4,X,2019-2020,Togo,France,S,0.34,1.36,1.36
+64728,TRK,FRA,2019,X,25,X,2021,N/A,MICA,MI,BVRAAM,L,25,X,2021,Turkmenistan,France,N,0.4,10,10
+58509,TRK,FRA,2012,X,28,X,2017,N/A,Mistral,MI,portable SAM,L,28,X,2013-2017,Turkmenistan,France,N,0.09,2.52,2.52
+64727,TRK,FRA,2019,X,1,,2021,VIA,VL-MICA,AD,SAM system,L,1,,2021,Turkmenistan,France,N,20,20,20
+59224,TUN,FRA,2015,,4,,2016,N/A,ACMAT APC,AV,APC,L,4,,2016,Tunisia,France,N,0.16,0.64,0.64
+61146,TUN,FRA,2015,X,4,,2016,N/A,Bastion,AV,APC/APV,L,4,,2016,Tunisia,France,N,0.16,0.64,0.64
+61024,TUN,FRA,2015,X,13,X,2017,POLI,VAB Mk-3,AV,APC,,13,X,2016-2017,Tunisia,France,N,0.35,4.55,4.55
+30431,TUR,FRA,2002,,15,,0,N/A,Ocean Master,GR,MP aircraft radar,L,14,X,2013-2022,Turkiye,France,N,2.5,37.5,35
+31914,UAE,FRA,2008,,3,,2013,VIA,A-330 MRTT,AC,tanker/transport aircraft,L,3,,2013,UAE,France,N,98,294,294
+63082,UAE,FRA,2021,,2,,0,VIA,A-330 MRTT,AC,tanker/transport aircraft,L,,,,UAE,France,N,98,196,0
+15239,UAE,FRA,2003,,4,,2015,LIC,Baynunah,SH,corvette,L,4,,2011-2015,UAE,France,N,107.25,429,429
+32379,UAE,FRA,2005,,2,,2017,LIC,Baynunah,SH,corvette,L,2,,2016-2017,UAE,France,N,107.25,214.5,214.5
+57987,UAE,FRA,2009,X,1,,2013,N/A,BlueMaster,GR,ASW sonar,L,1,,2013,UAE,France,N,10,10,10
+66130,UAE,FRA,2017,X,,,0,N/A,CAPTAS-1,GR,ASW sonar,L,,,,UAE,France,N,7.5,0,0
+52231,UAE,FRA,2009,X,1,,2013,N/A,CAPTAS-2,GR,ASW sonar,L,1,,2013,UAE,France,N,9,9,9
+65056,UAE,FRA,2021,,12,,0,CANC,EC725 Super Cougar,AC,anti-ship helicopter,,,,,UAE,France,N,13,156,0
+61446,UAE,FRA,2019,,2,,0,N/A,Gowind-2500,SH,frigate,,,,,UAE,France,N,0,0,0
+56160,UAE,FRA,2013,,17,,2017,N/A,Ground Master-200,GR,air search radar,L,17,X,2015-2017,UAE,France,N,10,170,170
+56161,UAE,FRA,2015,,2,,0,N/A,Helios-2,SA,recce satellite,L,1,,2020,UAE,France,N,50,100,50
+51828,UAE,FRA,2011,X,20,X,2013,N/A,MICA,MI,BVRAAM,L,20,X,2013,UAE,France,N,0.4,8,8
+62710,UAE,FRA,2018,X,,,0,N/A,MICA,MI,BVRAAM,L,,,,UAE,France,N,0.4,0,0
+21271,UAE,FRA,2006,,150,X,2017,N/A,MM-40-3 Exocet,MI,anti-ship/land-attack missile,L,150,X,2010-2017,UAE,France,N,1,150,150
+62708,UAE,FRA,2019,X,30,X,0,N/A,MM-40-3 Exocet,MI,anti-ship/land-attack missile,L,,,,UAE,France,N,1,30,0
+50236,UAE,FRA,2021,,80,,0,N/A,Rafale F4,AC,FGA aircraft,,,,,UAE,France,N,0,0,0
+63134,UAE,FRA,2019,,,,0,N/A,RDY,GR,combat aircraft radar,L,,,,UAE,France,N,2,0,0
+59223,UGA,FRA,2015,,31,X,2017,PEAC,Bastion,AV,APC/APV,L,31,X,2017,Uganda,France,N,0.16,4.96,4.96
+54077,UK,FRA,1999,X,150,X,2013,N/A,ASTER-15 SAAM,MI,SAM,L,150,X,2009-2013,United Kingdom,France,N,0.3,45,45
+54078,UK,FRA,2001,X,300,X,2013,N/A,ASTER-30,MI,SAM,L,300,X,2009-2013,United Kingdom,France,N,1,300,300
+60151,UK,FRA,2017,,8,,0,LIC,CAPTAS-4,GR,ASW sonar,L,,,,United Kingdom,France,N,11,88,0
+55835,UK,FRA,2013,,28,,2016,N/A,FLASH,GR,ASW sonar,L,28,X,2015-2016,United Kingdom,France,N,2,56,56
+66205,UKR,FRA,2022,,,,0,AID,AMX-10RC,AV,armoured car,L,,,,Ukraine,France,S,0.48,0,0
+65908,UKR,FRA,2022,,20,,0,AID,Bastion,AV,APC/APV,L,,,,Ukraine,France,N,0.16,3.2,0
+65421,UKR,FRA,2022,,18,,2022,AID,CAESAR 155mm,AR,self-propelled gun,L,18,,2022,Ukraine,France,S,0.44,7.92,7.92
+65900,UKR,FRA,2022,X,19,,0,N/A,CAESAR 155mm,AR,self-propelled gun,,,,,Ukraine,France,N,1.07,20.33,0
+65938,UKR,FRA,2022,,4,X,2022,AID,Crotale-NG,AD,SAM system,L,4,X,2022,Ukraine,France,S,4,16,16
+61724,UKR,FRA,2018,,12,,2022,N/A,EC725 Super Cougar,AC,transport helicopter,L,12,X,2018-2022,Ukraine,France,S,3,36,36
+65392,UKR,FRA,2022,,50,X,2022,AID,FGM-148 Javelin,MI,anti-tank missile,L,50,X,2022,Ukraine,France,S,0.012,0.6,0.6
+63275,UKR,FRA,2020,,20,,0,LIC,FPB-98,SH,patrol craft,L,,,,Ukraine,France,N,6.5,130,0
+66188,UKR,FRA,2022,,1,X,0,N/A,Ground Master-200,GR,air search radar,L,,,,Ukraine,France,N,10,10,0
+65973,UKR,FRA,2022,,2,,2022,AID,M-270 MLRS 227mm,AR,self-propelled MRL,L,2,X,2022,Ukraine,France,S,0.48,0.96,0.96
+65317,UKR,FRA,2022,,400,X,2022,AID,MILAN,MI,anti-tank missile,L,400,X,2022,Ukraine,France,S,0.004,1.6,1.6
+65393,UKR,FRA,2022,,50,X,2022,AID,Mistral,MI,portable SAM,L,50,X,2022,Ukraine,France,S,0.036,1.8,1.8
+65876,UKR,FRA,2022,,15,X,2022,AID,TR-F-1 155mm,AR,towed gun,L,15,X,2022,Ukraine,France,S,0.38,5.7,5.7
+65610,UKR,FRA,2022,,60,X,2022,AID,VAB-VTT,AV,APC,L,60,X,2022,Ukraine,France,S,0.12,7.2,7.2
+65957,UKR,FRA,2022,,100,X,2022,AID,VT-1,MI,SAM,L,100,X,2022,Ukraine,France,S,0.06,6,6
+56855,URU,FRA,2013,X,1,X,2014,N/A,AS365/AS565 Panther,AC,helicopter,L,1,X,2014,Uruguay,France,N,3.25,3.25,3.25
+64792,USA,FRA,2017,,141,X,2020,N/A,Atar-9,EN,turbojet,L,141,X,2019-2020,United States,France,S,0.6,84.6,84.6
+60089,USA,FRA,2022,,10,X,0,N/A,CAPTAS-4,GR,ASW sonar,L,,,,United States,France,N,11,110,0
+37694,USA,FRA,2002,,298,X,2018,LIC,FLASH,GR,ASW sonar,L,298,X,2006-2018,United States,France,N,2,596,596
+61156,USA,FRA,2017,,45,X,0,N/A,Mirage F-1C,AC,FGA aircraft,L,35,X,2019-2022,United States,France,S,6.4,288,224
+35513,USA,FRA,2004,,66,X,2013,N/A,MO-120-RT 120mm,AR,mortar,L,66,X,2008-2013,United States,France,N,0.1,6.6,6.6
+36387,USA,FRA,1996,X,60,X,0,LIC,ship engine,EN,ship engine,,48,,2006-2022,United States,France,N,3,180,144
+64992,USA,FRA,2004,,32,X,0,LIC,ship engine,EN,ship engine,,24,,2008-2022,United States,France,N,3,96,72
+58001,UZB,FRA,2013,X,8,X,2016,N/A,AS-350/AS-550 Fennec,AC,light helicopter,L,8,X,2014-2016,Uzbekistan,France,N,0.9,7.2,7.2
+58002,UZB,FRA,2013,,8,,2016,N/A,EC725 Super Cougar,AC,transport helicopter,L,8,X,2015-2016,Uzbekistan,France,N,7.5,60,60
+62888,UZB,FRA,2018,,3,X,2019,N/A,EC725 Super Cougar,AC,transport helicopter,L,3,X,2019,Uzbekistan,France,N,7.5,22.5,22.5
+54216,XXR,FRA,2016,X,1,X,2020,N/A,BlueWatcher,GR,ASW sonar,,1,X,2020,unknown recipient(s),France,N,2,2,2
+,,,,,43860,,,,,,,,40961,,,,,,,,

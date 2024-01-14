@@ -1,0 +1,36 @@
+tidn,buyercod,sellercod,odat,odai,onum,onai,ldat,term,desig2,wcat,desc,coprod,nrdel,nrdelai,delyears,buyer,seller,status,tivunit,tivorder,tivdel
+59349,AFG,IND,2015,,4,,2016,AID,Mi-24D/Mi-25,AC,combat helicopter,L,4,,2015-2016,Afghanistan,India,S,3.3,13.2,13.2
+56126,AFG,IND,2012,X,3,,2015,N/A,SA-315B Lama,AC,light helicopter,L,3,,2015,Afghanistan,India,N,0.75,2.25,2.25
+63423,ARM,IND,2020,,4,,2021,N/A,Swathi,GR,arty locating radar,,4,X,2021,Armenia,India,N,8,32,32
+65177,BAN,IND,2020,X,18,X,2020,N/A,OFB E1 120mm,AR,mortar,,18,,2020,Bangladesh,India,S,0.02,0.36,0.36
+64071,FRA,IND,2020,,4,,0,N/A,Falcon-2000,AC,transport aircraft,L,,,,France,India,N,17.25,69,0
+56370,MAU,IND,2011,,1,,2014,N/A,Barracuda,SH,OPV,L,1,,2014,Mauritius,India,N,27.5,27.5,27.5
+64836,MAU,IND,2021,,1,,2022,LOAN,Dhruv,AC,helicopter,L,1,,2022,Mauritius,India,S,1.8,1.8,1.8
+64834,MAU,IND,2021,,1,,2021,AID,Do-228,AC,light transport aircraft,L,1,,2021,Mauritius,India,S,0.88,0.88,0.88
+64835,MAU,IND,2021,,1,,2022,N/A,Do-228,AC,light transport aircraft,L,1,,2022,Mauritius,India,N,2.2,2.2,2.2
+59871,MAU,IND,2014,,1,,2016,N/A,Do-228MP,AC,maritime patrol aircraft,L,1,,2016,Mauritius,India,N,7,7,7
+57314,MAU,IND,2014,,2,,2017,N/A,Naidu,SH,patrol craft,L,2,,2016-2017,Mauritius,India,N,18.85,37.7,37.7
+57127,MLV,IND,2012,X,1,,2013,AID,Dhruv,AC,helicopter,L,1,,2013,Maldives,India,N,4.5,4.5,4.5
+61953,MLV,IND,2020,,1,,2020,AID,Do-228MP,AC,maritime patrol aircraft,L,1,,2020,Maldives,India,S,2.8,2.8,2.8
+62833,MOZ,IND,2019,X,2,,2019,AID,L&T Fast Interceptor,SH,patrol craft,,2,,2019,Mozambique,India,N,7.5,15,15
+56635,MYA,IND,2013,,3,,2015,N/A,HMS-X,GR,ASW sonar,L,3,X,2015,Myanmar,India,N,5,15,15
+56636,MYA,IND,2013,,3,,2016,N/A,LW-04,GR,air search radar,L,3,,2015-2016,Myanmar,India,N,6,18,18
+56637,MYA,IND,2006,X,1,,2013,N/A,LW-04,GR,air search radar,L,1,,2013,Myanmar,India,N,6,6,6
+60664,MYA,IND,2011,X,1,X,2016,N/A,LW-04,GR,air search radar,L,1,,2016,Myanmar,India,N,6,6,6
+62843,MYA,IND,2019,X,1,,2020,N/A,Project-877E,SH,submarine,L,1,,2020,Myanmar,India,R,145.2,145.2,145.2
+61359,MYA,IND,2017,,20,X,2020,N/A,Shyena,MI,ASW torpedo,L,20,X,2019-2020,Myanmar,India,N,0.3,6,6
+51438,NAM,IND,2009,,2,,2014,N/A,SA-316B Alouette-3,AC,light helicopter,L,2,,2014,Namibia,India,N,0.9,1.8,1.8
+58210,NEP,IND,2014,,1,,2014,AID,Dhruv,AC,helicopter,L,1,,2014,Nepal,India,N,4.5,4.5,4.5
+63251,PHI,IND,2021,X,2,X,0,N/A,NGMMCB,AR,coastal defence system,,,,,Philippines,India,N,0,0,0
+63252,PHI,IND,2021,X,40,X,0,N/A,PJ-10 BrahMos,MI,anti-ship/land-attack missile,L,,,,Philippines,India,N,1.4,56,0
+53002,SEY,IND,2012,X,1,,2013,AID,Do-228MP,AC,maritime patrol aircraft,L,1,,2013,Seychelles,India,N,7,7,7
+59218,SEY,IND,2015,,1,,2018,AID,Do-228MP,AC,maritime patrol aircraft,L,1,,2018,Seychelles,India,N,7,7,7
+59220,SEY,IND,2015,,1,,2018,N/A,EL/M-2022,GR,MP aircraft radar,L,1,,2018,Seychelles,India,N,2.5,2.5,2.5
+59617,SEY,IND,2021,,1,,0,N/A,FPV-300,SH,patrol craft,,,,,Seychelles,India,N,0,0,0
+62834,SEY,IND,2016,X,1,,2016,AID,L&T Fast Interceptor,SH,patrol craft,,1,,2016,Seychelles,India,N,7.5,7.5,7.5
+58035,SEY,IND,2013,,1,,2014,AID,SDB Mk-5,SH,patrol craft,L,1,,2014,Seychelles,India,S,5.84,5.84,5.84
+65010,SRI,IND,2018,,2,,0,AID,Do-228MP,AC,maritime patrol aircraft,L,1,,2022,Sri Lanka,India,N,7,14,7
+60412,SRI,IND,2014,,2,,2018,N/A,Samarth,SH,OPV,,2,,2017-2018,Sri Lanka,India,N,37,74,74
+50868,SUR,IND,2009,X,3,,2015,N/A,SA-316B Alouette-3,AC,light helicopter,L,3,,2015,Suriname,India,N,0.9,2.7,2.7
+66035,XXR,IND,2022,,,,0,N/A,ATAGS 155mm,AR,towed gun,,,,,unknown recipient(s),India,N,0,0,0
+,,,,,131,,,,,,,,83,,,,,,,,
