@@ -6,6 +6,8 @@ they're made, traded, or carried.
 
 let's track some weapon systems?
 
+![download](https://github.com/saffa19/armsy/assets/31897351/737ac37b-756e-415f-9023-b6c9e4ee5d9b)
+
 ## SIPRI
 
 sipri has some open access data on very official arms trade deals, can start by mapping that.
